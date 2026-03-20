@@ -55,5 +55,6 @@ def input(key):
 
 
 player = FirstPersonController()
-app.run()
+def run():
+    app.run()
 
