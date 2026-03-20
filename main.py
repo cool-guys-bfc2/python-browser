@@ -1,4 +1,4 @@
-import pack
+from pyscript import web
 out=web.page["output"]
 def echo(html):
     out.innerHtml+='<br/>'+html
