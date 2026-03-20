@@ -10,7 +10,7 @@ instead of separate blocks if you want it to run fast. You can use the Mesh clas
 You can then use blocks with colliders like in this example in a small area
 around the player so you can interact with the world.
 '''
-
+print('Hi')
 from ursina import *
 from ursina.prefabs.first_person_controller import FirstPersonController
 gamedata={
